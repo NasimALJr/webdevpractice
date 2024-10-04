@@ -1,2 +1,2 @@
 
-Single Page CV: https://github.com/NasimALJr/webdevpractice/blob/main/singpagecv.html
+[Single Page CV] (https://github.com/NasimALJr/webdevpractice/blob/main/singpagecv.html)
